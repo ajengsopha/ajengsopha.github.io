@@ -1,0 +1,8 @@
+body{background-image: url(https://drive.google.com/uc?authuser=0&id=1GGv0pLggMwP5b2rfAtvnS6iE7UdDDAIU&export=download);border-style: dashed;}
+th{background-color: violet;color:white}
+td{background-color: white}
+h2{background-color: tomato;border: solid;text-align: center; font-family: courier new;letter-spacing: 6px}
+h3{background-color: tomato;border: dotted;text-align: center;text-shadow: 3px 2px white; font-family: courier new; letter-spacing: 3px}
+p{background-color: lightblue;font-family:lucida console }
+li{background-color: lightgray;font-family: times new roman;border: outset; letter-spacing: 6px}
+h1{background-color: tomato;border: solid;text-align: center; font-family: courier new;letter-spacing: 6px}
